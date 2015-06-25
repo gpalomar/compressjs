@@ -10,8 +10,7 @@
   ],
   "license": "GPL",
   "dependencies": {
-    "amdefine": "https://github.com/jrburke/amdefine.git",
-    "commander": "~2.3.0"
+    "amdefine": "https://github.com/jrburke/amdefine.git"
   },
   "devDependencies": {
     "mocha": "~1.21.4"
